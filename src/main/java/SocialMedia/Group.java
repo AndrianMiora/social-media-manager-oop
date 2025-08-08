@@ -1,5 +1,5 @@
 package SocialMedia;
 
-public class Main {
+public class Group {
 
 }
